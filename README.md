@@ -21,7 +21,7 @@ Conexão com a internet
 Dependências
 Biblioteca LiquidCrystal para o controle do display LCD
 
-<strong>Considerações Finais</strong>
+Considerações Finais<br>
 Este projeto visa contribuir para a redução do desperdício de alimentos e promover a doação de alimentos excedentes para pessoas em situação de vulnerabilidade. Ao utilizar o Arduino e seus sensores/atuadores, podemos monitorar e controlar as condições dos alimentos, garantindo que estejam adequados para consumo.
 
 Agradecemos por utilizar nosso aplicativo e por contribuir para essa causa importante. Caso tenha alguma dúvida ou sugestão, entre em contato conosco.
