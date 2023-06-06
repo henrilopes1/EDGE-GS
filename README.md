@@ -3,7 +3,7 @@
 
 Instruções de Uso:<br>
 Conecte o Arduino ao computador.<br>
-Faça o upload do código correspondente ao sensor que deseja utilizar (sensor de temperatura ou sensor de peso) para o Arduino.<br><br>
+Faça o upload do código correspondente ao sensor que deseja utilizar (sensor de temperatura ou sensor de peso) para o Arduino.<br>
 Conecte os sensores e atuadores corretamente aos pinos do Arduino.<br>
 Execute o aplicativo no computador ou dispositivo móvel.<br>
 Cadastre-se no aplicativo como um estabelecimento comercial ou uma organização de redistribuição de alimentos.<br>
